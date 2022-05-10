@@ -20,13 +20,14 @@ p {
     font-size: 21px;
     font-family: Verdana;
 }
-p2 {
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+footer {
     color: grey;
     text-align: right !important;
     font-family: Verdana;
     font-size: 21px;
-}
-a {
-    color: aquamarine;
-    font-size: 16px;
 }
